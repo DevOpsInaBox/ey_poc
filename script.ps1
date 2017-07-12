@@ -1,0 +1,1 @@
+F:\SCOM\InstallSCOMAgent.bat
