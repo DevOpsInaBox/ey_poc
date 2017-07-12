@@ -1,1 +1,1 @@
-F:\SCOM\MMASetup-AMD64.exe /Q:A /R:N /C:"setup.exe /qn ADD_OPINSIGHTS_WORKSPACE=1 OPINSIGHTS_WORKSPACE_ID=e763bb51-a79a-438e-b8a6-9f92464ad6bb OPINSIGHTS_WORKSPACE_KEY=xpsinXm2sCeIl5XaoE13f1Twxq+Cz/SmuSZ1MiXEVfCzh47rWc+Srq4EZm3NvbtSlHWCZrXNHPes5z0RDt/rMg== AcceptEndUserLicenseAgreement=1"
+cmd.exe /c 'F:\SCOM\InstallSCOMAgent.bat'
